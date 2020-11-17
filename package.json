@@ -1,0 +1,20 @@
+{
+  "name": "blog2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  },
+  "dependencies": {
+    "eleventy-plugin-embed-everything": "^1.9.2",
+    "eleventy-plugin-embed-spotify": "^1.1.6",
+    "terser": "^5.3.2"
+  }
+}
